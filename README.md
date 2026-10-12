@@ -3,7 +3,7 @@
 **Seamless Web2.5 Onboarding & Digital Achievements for Students.**
 Built for the Colosseum Hackathon.
 
- **[Live Demo](https://startup-badges.vercel.app/)** |  **[Pitch Deck](https://drive.google.com/file/d/1PCzg81Q2AG5SOZ_EpeTEmuHE7Ego9W6y/view?usp=sharing)**
+ **[Live Demo](https://omnibadge.vercel.app/)** |  **[Pitch Deck](https://drive.google.com/file/d/1YDqGOLLihR4VylAlMgnRL8X6jz72YIAX/view?usp=sharing)**
 
 ##  The Problem
 Mainstream adoption of Web3 in the EdTech sector faces a massive hurdle: user friction. Forcing students to download extensions, secure seed phrases, and fund wallets just to receive a digital certificate or event badge creates an overwhelming barrier to entry.
