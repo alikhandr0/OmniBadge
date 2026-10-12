@@ -56,7 +56,7 @@ export default function App() {
             letterSpacing: '-1px',
             color: '#1A1A1A'
           }}>
-            Startup <span style={{ color: '#007A6A' }}>Badges</span>
+            Omni<span style={{ color: '#007A6A' }}>Badge</span>
           </h1>
           <p style={{ margin: '0', fontSize: '16px', color: '#4B5563', lineHeight: '1.5', fontWeight: '500' }}>
             Платформа цифровых достижений.<br/>Войдите через Google для активации.
