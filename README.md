@@ -1,15 +1,15 @@
-# Startup Badges
+# OmniBadge
 
 **Seamless Web2.5 Onboarding & Digital Achievements for Students.**
 Built for the Colosseum Hackathon.
 
- **[Live Demo](https://startup-badges.vercel.app/)** |  **[Product Demo Video](#)** |  **[Pitch Video](#)**
+ **[Live Demo](https://startup-badges.vercel.app/)** |  **[Pitch Deck](https://drive.google.com/file/d/1PCzg81Q2AG5SOZ_EpeTEmuHE7Ego9W6y/view?usp=sharing)**
 
 ##  The Problem
 Mainstream adoption of Web3 in the EdTech sector faces a massive hurdle: user friction. Forcing students to download extensions, secure seed phrases, and fund wallets just to receive a digital certificate or event badge creates an overwhelming barrier to entry.
 
-##  The Solution
-Campus Badges is a Web2.5 MVP that abstracts away blockchain complexity. By leveraging Thirdweb's In-App Wallets, we allow students to generate non-custodial Solana wallets instantly using their existing Google accounts. 
+##  The Solution[
+OmniBadge is a Web2.5 MVP that abstracts away blockchain complexity. By leveraging Thirdweb's In-App Wallets, we allow students to generate non-custodial Solana wallets instantly using their existing Google accounts. 
 
 No seed phrases, no gas fees on onboarding, just a seamless 1-click experience wrapped in a clean, modern educational UI.
 
@@ -26,4 +26,4 @@ No seed phrases, no gas fees on onboarding, just a seamless 1-click experience w
 ##  Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_NICKNAME/campus-badges.git](https://github.com/YOUR_GITHUB_NICKNAME/campus-badges.git)
+   git clone [https://github.com/alikhandr0/OmniBadge.git](https://github.com/alikhandr0/OmniBadge.git)
